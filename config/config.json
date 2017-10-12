@@ -1,0 +1,7 @@
+{
+    "port": 3000,
+    "accessType": ".(jpg|jpeg|png|gif)$",
+    "algorithm": "sha256",
+    "salt": "YoUr_SaLt",
+    "reset": false
+}
